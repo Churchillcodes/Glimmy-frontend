@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-glimmy-cream: #faf6f0;
+  --color-glimmy-walnut: #5c4033;
+  --color-glimmy-sage: #b7c4a0;
+  --color-glimmy-charcoal: #2b2622;
+  --font-heading: "Poppins", sans-serif;
+  --font-body: "Inter", sans-serif;
+}
