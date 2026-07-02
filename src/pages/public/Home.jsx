@@ -1,4 +1,4 @@
-import { link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { FiTruck, FiTool, FiCheckCircle } from "react-icons/fi";
 import Button from "../../components/common/Button";
 import { getWhatsAppLink } from "../../utils/whatsappLink";
